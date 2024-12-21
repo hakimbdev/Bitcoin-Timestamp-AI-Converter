@@ -2,7 +2,7 @@ from datetime import datetime
 import streamlit as st
 
 # Title of the app
-st.title('Bitcoin Timestamp Converter')
+st.title('Bitcoin Timestamp AI Converter')
 
 # Input section
 st.subheader('Convert Bitcoin Transaction Timestamp to Human-Readable Date')
