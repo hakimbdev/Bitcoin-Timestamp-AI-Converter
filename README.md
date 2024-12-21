@@ -1,7 +1,7 @@
 ![btctm](https://github.com/user-attachments/assets/c2fc86c1-0833-4295-b52f-63f1e69c8f14)
 ![BTPC - p](https://github.com/user-attachments/assets/732a5691-9dd5-4ef2-bf83-ea2025cd0011)
 
-# Bitcoin-Timestamp-AI-Converter
+# Bitcoin-Timestamp-AI-Powered-Converter
 
 Developed by
 ABDULHAKIM AHMAD
