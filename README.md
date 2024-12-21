@@ -1,4 +1,5 @@
-![BTPC](https://github.com/user-attachments/assets/3de3af1d-fa2e-4410-9274-1a82c22d8f58)
+![BTPC - p](https://github.com/user-attachments/assets/732a5691-9dd5-4ef2-bf83-ea2025cd0011)
+
 # Bitcoin-Timestamp-AI-Converter
 
 Developed by
