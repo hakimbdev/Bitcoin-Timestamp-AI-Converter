@@ -17,4 +17,4 @@ except ValueError:
 
 # Footer
 st.write("---")
-st.caption("Subscribe to my channel for more!")
+st.caption("Developed by Abdulhakim Ahmad")
